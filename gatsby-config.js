@@ -30,8 +30,7 @@ module.exports = {
           perPage: 100,
           timeout: 60000,
         },
-        // url: 'https://wp.klientboost.com/graphql',
-        url: 'http://temp.rasmuswoelk.dk/wordpress/graphql',
+        url: 'https://temp.rasmuswoelk.dk/wordpress/graphql',
         verbose: true,
         develop: {
           hardCacheMediaFiles: true,
