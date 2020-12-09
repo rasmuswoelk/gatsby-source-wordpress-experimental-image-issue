@@ -38,7 +38,7 @@ module.exports = {
           hardCacheData: true,
         },
         html: {
-          useGatsbyImage: true,
+          useGatsbyImage: false,
           imageQuality: 80,
           imageMaxWidth: 1400,
           fallbackImageMaxWidth: 1400,
